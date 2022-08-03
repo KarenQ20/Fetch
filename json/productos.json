@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bolso",
+    "marca": "HG",
+    "precio": 250000,
+    "stock": 12,
+    "img": "bolso.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Cartera",
+    "marca": "Bossi",
+    "precio": 30000,
+    "stock": 6,
+    "img": "carterah.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Lonchera",
+    "marca": "Totto",
+    "precio": 134000,
+    "stock": 10,
+    "img": "Lonchera.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Maleta de Viaje",
+    "marca": "Turix",
+    "precio": 150000,
+    "stock": 4,
+    "img": "maletaviaje.jpg"
+  }
+]
